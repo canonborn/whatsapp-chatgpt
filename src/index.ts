@@ -17,7 +17,7 @@ const statusBroadcast = "status@broadcast";
 
 // Prefixes
 const prefixEnabled = process.env.PREFIX_ENABLED == "true";
-const gptPrefix = "!gpt";
+const gptPrefix = "!shiro";
 const dallePrefix = "!dalle";
 
 // Whatsapp Client
